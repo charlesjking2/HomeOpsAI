@@ -1,0 +1,15 @@
+planning_day: Thursday
+
+shopping_day: Saturday
+
+meal_prep_day: Sunday
+
+restaurant_goal: 2
+
+max_leftover_days: 1
+
+calendar_enabled: true
+
+pantry_enabled: true
+
+learning_enabled: true
