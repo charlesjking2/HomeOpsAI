@@ -1,0 +1,50 @@
+family_name: King Family
+
+family_size: 6
+
+
+preferences:
+
+  restaurant_goal_per_week: 2
+
+  leftovers_policy:
+    "Dinner leftovers are mainly for lunches. Avoid leftover dinners."
+
+  meal_planning_day:
+    Thursday
+
+  shopping_day:
+    Saturday
+
+
+stores:
+
+  - name: Meijer
+    priority: 1
+
+  - name: Busch's Fresh Food
+    priority: 2
+
+  - name: Plum Market
+    priority: 3
+
+
+appliances:
+
+  - name: Grill
+
+  - name: Smoker
+
+  - name: Air Fryer
+
+  - name: Instant Pot
+
+  - name: Griddle
+
+  - name: Oven
+
+  - name: Stove
+
+  - name: Microwave
+    available: false
+    notes: No microwave in household
