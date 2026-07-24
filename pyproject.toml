@@ -1,0 +1,20 @@
+[project]
+name = "homeopsai"
+version = "0.1.0"
+description = "AI powered household operating system"
+requires-python = ">=3.12"
+
+dependencies = [
+    "openai",
+    "fastapi",
+    "pydantic",
+    "pyyaml",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+    "black",
+]
