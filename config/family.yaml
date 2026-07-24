@@ -1,0 +1,28 @@
+family:
+  name: King Family
+
+  members:
+
+    - name: CJ
+      age: 44
+      role: parent
+
+    - name: Michelle
+      age: 43
+      role: parent
+
+    - name: Trey
+      age: 17
+      role: child
+
+    - name: Shane
+      age: 14
+      role: child
+
+    - name: Loralei
+      age: 13
+      role: child
+
+    - name: Heidi
+      age: 10
+      role: child
