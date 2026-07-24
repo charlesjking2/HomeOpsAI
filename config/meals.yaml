@@ -1,0 +1,43 @@
+categories:
+
+  Mexican:
+    meals:
+      - Tacos
+      - Bean Burritos
+      - Nachos
+      - Quesadilla
+      - Chicken Burritos
+      - Chicken Fajita
+      - Steak Fajita
+
+
+  Burgers:
+    meals:
+      - Cheeseburgers
+      - Juicy Beef Hamburgers
+      - Spinach and Artichoke Burgers
+      - Greek Feta Burgers
+      - Sliders
+
+
+  Chicken:
+    meals:
+      - Chicken Italian
+      - Chicken Greek
+      - Chicken Shawarma
+      - Chicken Parmesan Wraps
+      - Grilled Chicken Sandwiches
+
+
+  BBQ:
+    meals:
+      - Ribs
+      - Brisket
+      - Pork Roast
+      - Skillet BBQ Chicken
+
+
+  Seafood:
+    meals:
+      - Honey Salmon
+      - Shrimp
