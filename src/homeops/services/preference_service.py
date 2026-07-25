@@ -14,3 +14,10 @@ class PreferenceService:
 
     def meal_planning_day(self):
         return self.household.preferences.meal_planning_day
+    
+    def available_equipment(self):
+        return [
+            appliance.name
+            for appliance in self.household.appliances
+            if appliance.available
+        ]
