@@ -7,9 +7,11 @@ class MealPlannerService:
         self,
         meals: list[Meal],
         memory=None,
+        preferences=None,
     ):
         self.meals = meals
         self.memory = memory
+        self.preferences = preferences
 
 
     def score_meal(
