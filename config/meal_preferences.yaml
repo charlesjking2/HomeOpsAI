@@ -1,0 +1,28 @@
+favorites:
+  Tacos: 5
+  Pizza: 5
+  Cheeseburgers: 5
+  Juicy Beef Hamburgers: 5
+  Honey Salmon: 4
+  Steak Garlic Butter: 4
+  Chicken Fajita: 4
+  Mostaccioli: 4
+
+quick_meals:
+  Quesadilla: 5
+  Bean Burritos: 5
+  Chicken Nuggets & Tortellini: 5
+  Bagel Egg & Cheese: 5
+
+weekend_meals:
+  Brisket:
+    preferred_day: Saturday
+
+  Ribs:
+    preferred_day: Saturday
+
+  Pork Roast:
+    preferred_day: Sunday
+
+avoid:
+  - "Meals requiring long prep on busy nights"
