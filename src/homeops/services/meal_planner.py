@@ -34,7 +34,15 @@ class MealPlannerService:
             score += 2
 
         if meal.makes_leftovers:
-            score += 1
+
+            if (
+                self.preferences
+                and "Avoid leftover dinners"
+                in self.preferences.leftovers_policy()
+            ):
+                score -= 1
+            else:
+                score += 1
 
         # New memory awareness
         if self.memory:
