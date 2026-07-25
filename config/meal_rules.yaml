@@ -1,0 +1,15 @@
+rotation:
+  avoid_repeat_days: 14
+
+protein:
+  max_consecutive_days: 2
+
+scoring:
+  family_favorite_bonus: 5
+  recent_meal_penalty: 10
+
+weekend:
+  smoker_preferred: true
+
+restaurant:
+  target_per_week: 2
